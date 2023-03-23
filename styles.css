@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
+.maintitle{
+    color: green;
+    text-align: center;
+}
+
+.homepagetext{
+    font-size: large;
+}
