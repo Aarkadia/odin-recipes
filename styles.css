@@ -10,3 +10,8 @@ body{
 .homepagetext{
     font-size: large;
 }
+
+.eggimg{
+    height: auto;
+    width: 450px;
+}
