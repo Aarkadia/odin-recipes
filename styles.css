@@ -14,4 +14,10 @@ body{
 .eggimg{
     height: auto;
     width: 450px;
+    
+    
+}
+
+.eggdogalign{
+    text-align: center;
 }
